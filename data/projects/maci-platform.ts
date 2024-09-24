@@ -1,11 +1,11 @@
 import { ProjectInterface } from "@/lib/types"
 
 export const maciRPGF: ProjectInterface = {
-  id: "maci-rpgf",
+  id: "maci-platform",
   section: "pse",
   projectStatus: "active",
   image: "maci-rpgf.png",
-  name: "MACI RPGF",
+  name: "MACI Platform",
   links: {
     github: "https://github.com/privacy-scaling-explorations/maci-rpgf",
     website: "https://maci.pse.dev",
